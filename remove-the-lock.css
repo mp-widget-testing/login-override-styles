@@ -2,4 +2,6 @@
    OVERRIDE LOGIN CSS
 ---- */
 
-.mppw-icon-unlock { display: none; }
+:host {
+   .mppw-icon-unlock { display: none; }
+}
